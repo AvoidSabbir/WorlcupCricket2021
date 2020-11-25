@@ -248,6 +248,8 @@ https://rhridoy136.shortcm.li/starsportsselect1hd.m3u8
 https://rhridoy136.shortcm.li/starsportsselect2hd.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Sports",Bein Sports HD 
 https://akamai2-me.cdn.booyah.live/hls/113138/32748897.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Sports",Willow HD
+http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="English",UTV Action
 https://rhridoy136.shortcm.li/utvaction.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="English",BBC World News
