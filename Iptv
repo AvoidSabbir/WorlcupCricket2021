@@ -130,8 +130,8 @@ https://streamitv.multitvsolution.in/idvo/dangal_360p/index.m3u8
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Documentary",Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery Bangla
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+#EXTINF:0 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery Bangla
+https://rhridoy136.shortcm.li/discovery.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Documentary",Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Sony Aath xSD
@@ -193,43 +193,20 @@ http://10.16.100.204/hls/&_pic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="India",Sony Max HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",WOW Chinema
-http://10.16.100.201/hindi/wow_cinema.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",Comedy Central
-https://rhridoy136.shortcm.li/comedycentral.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",National Geographic
-https://rhridoy136.shortcm.li/natgeo.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",National Geographic People
-https://rhridoy136.shortcm.li/natgeopeople.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",National Geographic Wild
-https://rhridoy136.shortcm.li/natgeowild.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",Discovery
-https://rhridoy136.shortcm.li/discovery.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="English",HBO
 https://rhridoy136.shortcm.li/hbo.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Cartoon",CN
-https://rhridoy136.shortcm.li/cartoonnetwork.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Cartoon",Nick HD
-https://rhridoy136.shortcm.li/nickhd.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Cartoon",Nick Jr
-https://rhridoy136.shortcm.li/nickjr.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Cartoon",Sonic
 https://rhridoy136.shortcm.li/sonic.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",History TV
-https://rhridoy136.shortcm.li/historytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",9XM-1
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Music",9x Jalwa
 https://rhridoy136.shortcm.li/9xjalwa.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Music",MASTI
 http://10.16.100.207:8082/sports/mtuness.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Music",MTV Beats
-https://rhridoy136.shortcm.li/mtvbeats.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Music",Zoom
 https://rhridoy136.shortcm.li/zoom.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Music",Zing
 https://rhridoy136.shortcm.li/zing.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Music",VH1
-https://rhridoy136.shortcm.li/vh1.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Music",Dil Se
 https://rhridoy136.shortcm.li/dilse.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Sony Six
@@ -252,8 +229,6 @@ https://rhridoy136.shortcm.li/starsportsselect2hd.m3u8
 https://akamai2-me.cdn.booyah.live/hls/113138/32748897.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Willow HD
 http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",UTV Action
-https://rhridoy136.shortcm.li/utvaction.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="English",BBC World News
 https://rhridoy136.shortcm.li/bbcworldnews.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="English",Fox Life
