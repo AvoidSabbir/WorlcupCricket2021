@@ -48,7 +48,7 @@ https://rhridoy136.shortcm.li/btvworld.m3u8
 https://rhridoy136.shortcm.li/channel9.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangladesh",CHANNEL 24
 https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh",26.Channel 23
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh",Channel 23
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangladesh",Channel I
 https://rhridoy136.shortcm.li/channeli.m3u8
@@ -160,6 +160,10 @@ https://rhridoy136.shortcm.li/starjalshamovieshd.m3u8
 https://rhridoy136.shortcm.li/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",Zee Bangla Cinema HD
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",Colors Bangla
+https://rhridoy136.shortcm.li/colorsbangla.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="India",Colors Bangla HD
+https://rhridoy136.shortcm.li/colorsbanglahd.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Star Plus xSD
 http://10.16.100.204/hls/star_plus.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Star Plus
@@ -182,19 +186,11 @@ http://10.16.100.201/hindi/colorsin.m3u8
 https://rhridoy136.shortcm.li/colors.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",Colors HD
 https://rhridoy136.shortcm.li/colorshd.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="India",Colors Bangla
-https://rhridoy136.shortcm.li/colorsbangla.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="India",Colors Bangla HD
-https://rhridoy136.shortcm.li/colorsbanglahd.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="India",Colors Rishtey
-https://rhridoy136.shortcm.li/colorsrishtey.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",& Picture
 http://10.16.100.204/hls/&_pic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="India",Sony Max HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="India",WOW Chinema
-#EXTINF:0 tvg-logo="ext" group-title="English",HBO
-https://rhridoy136.shortcm.li/hbo.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Cartoon",Sonic
 https://rhridoy136.shortcm.li/sonic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bangla" tvg-logo="" group-title="Music",9XM-1
@@ -207,8 +203,6 @@ http://10.16.100.207:8082/sports/mtuness.m3u8
 https://rhridoy136.shortcm.li/zoom.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Music",Zing
 https://rhridoy136.shortcm.li/zing.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="Music",Dil Se
-https://rhridoy136.shortcm.li/dilse.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Sony Six
 http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Sony Ten 1
@@ -229,11 +223,3 @@ https://rhridoy136.shortcm.li/starsportsselect2hd.m3u8
 https://akamai2-me.cdn.booyah.live/hls/113138/32748897.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Willow HD
 http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",BBC World News
-https://rhridoy136.shortcm.li/bbcworldnews.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",Fox Life
-https://rhridoy136.shortcm.li/foxlife.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="English",Times Now
-https://rhridoy136.shortcm.li/timesnow.m3u8
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg" group-title="English",Al Jazeera
-https://rhridoy136.shortcm.li/aljazeera.m3u8
