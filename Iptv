@@ -165,7 +165,7 @@ https://rhridoy136.shortcm.li/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla",Zee Bangla Cinema HD
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Colors Bangla xSD
-http://10.16.100.201/hindi/colorsin.m3u8
+http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Colors Bangla
 https://rhridoy136.shortcm.li/colorsbangla.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Colors Bangla HD
