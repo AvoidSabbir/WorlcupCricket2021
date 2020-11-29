@@ -142,6 +142,8 @@ http://10.16.100.204/hls/sony_aath.m3u8
 https://rhridoy136.shortcm.li/sonyaath.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Star Jalsha xSD
 http://10.16.100.204/hls/star_jalsha.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Star Jalsha xSD 2
+http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Star Jalsha
 https://rhridoy136.shortcm.li/starjalsha.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Star Jalsha HD
@@ -151,7 +153,9 @@ http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Sangeet Bangla
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Zee Bangla xSD
-http://10.16.100.204/hls/zee_bangla_720.m3u8
+http://10.16.100.204/hls/zee_bangla_720.m3u8 
+#EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Zee Bangla xSD 2
+http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Zee Bangla
 https://rhridoy136.shortcm.li/zeebangla.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Indian Bangla",Zee Bangla HD
@@ -231,15 +235,3 @@ https://rhridoy136.shortcm.li/starsportsselect2hd.m3u8
 https://akamai2-me.cdn.booyah.live/hls/113138/32748897.m3u8
 #EXTINF:0 tvg-logo="ext" group-title="Sports",Willow HD
 http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
-#EXTINF:-1 ,star jalsha hd{link 1}
-http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,zee bangla not hd
-http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,zee bangla hd link 1
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.ts
-#EXTINF:-1 ,zee bangla hd link2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-1 ,star jalsha hd link 2
-http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
-#EXTINF:-1 ,star jalsha hd link 3
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
