@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0,WorldCup Live 
+#EXTGRP:Cricket
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/EX-7c__253GW4Q4zjpv6HTWKOiNYgX076EXhsMZRGUW9CCEQgYStTrJE3pGW0v41ZMflhgSea2RiOzsEGaU2sg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:0,WorldCup Live 2
+#EXTGRP:Cricket
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/weD03UhjvzA7NailkPjt5AewyEEjT4G8GM9dpxlsjK5Tpn_A5qM6Y3BfQetQE6fyBiKk6d4_Qnfr-XN5Dexppw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:0,HOTSTAR ENGLISH
+#EXTGRP:Cricket
+https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar_English/SA-VS-WI.m3u8
+#EXTINF:0,HOTSTAR HINDI
+#EXTGRP:Cricket
+https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar_Hindi/SA-VS-WI.m3u8
+#EXTINF:0,Austro Cricket
+#EXTGRP:Cricket
+http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
+#EXTINF:0,GTV 3 HD
+#EXTGRP:Cricket
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:0,GTV 2
+#EXTGRP:Cricket
+http://103.40.226.94:8080/hls/channel_1.m3u8
+#EXTINF:0,BTV National
+#EXTGRP:Cricket
+http://103.106.2.149:13456/btv.m3u8
+#EXTINF:0,Siyatha TV
+#EXTGRP:Cricket
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
+#EXTINF:0,Arabian tv
+#EXTGRP:Cricket
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
