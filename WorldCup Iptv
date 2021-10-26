@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,WorldCup Live 
 #EXTGRP:Cricket
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/EX-7c__253GW4Q4zjpv6HTWKOiNYgX076EXhsMZRGUW9CCEQgYStTrJE3pGW0v41ZMflhgSea2RiOzsEGaU2sg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/pxMBejQA83DIWNrIb4c7qW0Ye2QVxD-Iwt4oJyyJ0RBtwsok22Is8Pqz4dIi_PGiTyb2cK2ic5C26UyPmTPa1w/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8
 #EXTINF:0,WorldCup Live 2
 #EXTGRP:Cricket
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/weD03UhjvzA7NailkPjt5AewyEEjT4G8GM9dpxlsjK5Tpn_A5qM6Y3BfQetQE6fyBiKk6d4_Qnfr-XN5Dexppw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
