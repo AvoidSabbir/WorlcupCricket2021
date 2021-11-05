@@ -19,12 +19,12 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:0,GTV 2
 #EXTGRP:Cricket
 http://103.40.226.94:8080/hls/channel_1.m3u8
-#EXTINF:0,BTV National
+#EXTINF:0,WorldCup Live 4
 #EXTGRP:Cricket
-http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
-#EXTINF:0,Siyatha TV
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636315525&md5=LGXUddrL-1ZXrnBTFqwFZA&user=49729ec489674ef3912b6d7cd0822923
+#EXTINF:0,WorldCup Live 5
 #EXTGRP:Cricket
-http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:0,Arabian tv
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636315446&md5=YgjFXbnTjjoEgMtBA-NrDg&user=49729ec489674ef3912b6d7cd0822923
+#EXTINF:0,WorldCup Live 3
 #EXTGRP:Cricket
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636315446&md5=YgjFXbnTjjoEgMtBA-NrDg&user=49729ec489674ef3912b6d7cd0822923
